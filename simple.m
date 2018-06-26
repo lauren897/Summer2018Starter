@@ -13,3 +13,4 @@ myInternalFunction[image_] := Join[
 
 (* this is a function that returns a list of hipster images *)
 Hipsterize[image___] := myInternalFunction[image] 
+(* more edits here to test github*)
